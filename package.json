@@ -1,0 +1,29 @@
+{
+  "name": "kitchen",
+  "version": "1.0.0",
+  "description": "Apollo Kitchen is a set of scripts designed to allow you create your own ApolloTV ecosystem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ApolloTVofficial/kitchen.git"
+  },
+  "keywords": [
+    "apollotv",
+    "kitchen",
+    "apollo",
+    "creator",
+    "ecosystem",
+    "scripts",
+    "kamino",
+    "claws"
+  ],
+  "author": "ApolloTVofficial",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ApolloTVofficial/kitchen/issues"
+  },
+  "homepage": "https://github.com/ApolloTVofficial/kitchen#readme"
+}
